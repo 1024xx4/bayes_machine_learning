@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
+japanize-matplotlib = "*"
+pandas = "*"
+scikit-learn = "*"
+tqdm = "*"
+arviz = "*"
+pymc3 = "*"
+theano-pymc = "*"
+pyro-ppl = "*"
+torch = "*"
+numpyro = "*"
+jax = "*"
+tensorflow-probability = "*"
+tensorflow = "*"
+gpytorch = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
