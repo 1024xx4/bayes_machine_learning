@@ -22,6 +22,7 @@ jax = "*"
 tensorflow-probability = "*"
 tensorflow = "*"
 gpytorch = "*"
+jupyter = "*"
 
 [dev-packages]
 
